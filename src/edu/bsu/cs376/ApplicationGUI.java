@@ -50,7 +50,7 @@ public class ApplicationGUI extends Application {
     }
 
     private Scene FCFSInput(){
-        return new Scene(FCFSLayout(), 700, 650);
+        return new Scene(FCFSLayout(), 600, 650);
     }
 
     private BorderPane FCFSLayout() {
